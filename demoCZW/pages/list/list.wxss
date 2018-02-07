@@ -1,0 +1,22 @@
+/* pages/list/list.wxss */
+.content{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: boeder-box;
+  background-image: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1517481805346&di=8d1b8a6932914d39beba035c9cab6d94&imgtype=0&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F5%2F57bab71924971.jpg);
+  background-repeat: repeat;
+}
+
+.item{
+  width: 90%;
+  line-height: 100rpx;
+  margin-top: 3rpx;
+  margin-bottom: 3rpx;
+  border-radius: 3px;
+  padding-left: 3rpx;
+  color: #fef4e9;
+  border: solid 1px #da7c07;
+  background: #f78d1d;
+}
