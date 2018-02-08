@@ -10,7 +10,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "1.9.1",
 	"appid": "wx79eb04435f1cc4f1",
-	"projectname": "demoCZW",
+	"projectname": "calculator",
 	"isGameTourist": false,
 	"condition": {
 		"search": {
